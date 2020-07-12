@@ -1,7 +1,8 @@
 # Core_W4_Independent_Project_Hypothesis_Testing_Notebook
 This repository contains a colab notebook containing a project on Exploratory Data Analysis and Hypothesis Testing on the Autolib Dataset
 
-Description of the project
+## Description of the project
+
 Autolib is an electric car sharing company that rents out three types of cars i.e the bluecar, utilib and the utilib 14.
 The company operates in different area codes/locations in the city of Paris and runs throughout the week. As the data scientist of the company, 
 I have conducted prior analysis and have found out that the blue car is the most popular in comparison to the utilib and the utilib 14 cars. 
@@ -19,15 +20,15 @@ By answering this question, I will help the management make better decisions whe
 This will help avoid oversupply or undersupply of the blue car.
 
 
-Instructions
+## Instructions
 
-Setup git clone https://github.com/Terry-Migwi/Core_W4_Independent_Project_Hypothesis_Testing_Notebook and extract the colab Notebook.
+Setup git clone https://github.com/Terry-Migwi/Core_W4_Independent_Project_Hypothesis_Testing_Notebook.git and extract the colab Notebook.
 
-Technologies used.
+## Technologies used.
 
 *google colab
 
 
-Author
+## Author
 
 Terry Migwi
